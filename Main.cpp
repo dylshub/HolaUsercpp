@@ -8,11 +8,15 @@ int main(){
     cout<<"Ingrese su nombre "<<endl;
 
     cin>>user;
+    do{
 
+    
     if (user != "" || user != " "){
-        cout<<"Hola "<<user<<endl;
+        cout<<"Hola "<<user<<"Bienvenido al programa uwu"<<endl;
     }else{
-        cout <<"HOLA MUNDO"<<endl;
+        cout<<"porfavor ingrese su nombre de usuario"<<endl;
     }
+    }while(user == "" || user == " ")
 
+    
 }
