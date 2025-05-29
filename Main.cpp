@@ -15,4 +15,6 @@ int main(){
         cout <<"HOLA MUNDO"<<endl;
     }
 
+    cout<<"bienvenido"<<endl;
+
 }
