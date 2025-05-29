@@ -13,8 +13,8 @@ int main(){
     if (user != " " || user != " "){
         cout<<"Hola,  "<<user<<endl;
     }else{
-        cout <<"NO DEJE ESPACIOS VACIOS."<<endl;
-        cout <<"INTENTE DE NUEVO"<<endl;
+        cout <<"**NO DEJE ESPACIOS VACIOS**"<<endl;
+        cout <<"**INTENTE DE NUEVO**"<<endl;
     }
 }while(user != " " || user != " ")
     
