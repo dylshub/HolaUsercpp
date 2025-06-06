@@ -8,7 +8,7 @@ int main(){
     cout<<"Ingrese su nombre "<<endl;
 
     cin>>user;
-
+    cout<<"BIENVENIDO " << user<<endl;
     if (user != "" || user != " "){
         cout<<"Hola "<<user<<endl;
     }else{
