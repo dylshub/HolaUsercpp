@@ -14,5 +14,5 @@ int main(){
     }else{
         cout <<"HOLA MUNDO"<<endl;
     }
-
-}
+    cout<<"Gracias por utilizar el programa usuario"<<user<<endl;
+        }
